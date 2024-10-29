@@ -17,6 +17,8 @@ Tutorial for closure phase problem. List of files in this repository:
 
 If you use the data provided in the `data` directory, please make sure to cite the following papers and include the following acknowledgement: 
 
+> Chael, Andrew, Ramesh Narayan, and Michael D. Johnson. "Two-temperature, Magnetically Arrested Disc simulations of the jet from the supermassive black hole in M87." Monthly Notices of the Royal Astronomical Society 486.2 (2019): 2873-2895.
+
 > Oliver Porth, Koushik Chatterjee, Ramesh Narayan, Charles F Gammie, Yosuke Mizuno, Peter Anninos, John G Baker, Matteo Bugli, Chi-kwan Chan, Jordy Davelaar, et al., “The event horizon general relativistic magnetohydrodynamic code comparison project,” The Astrophysical Journal Supplement Series, vol. 243, no. 2, pp. 26, 2019.?
 
 > The Event Horizon Telescope Collaboration. "First Sagittarius A* event horizon telescope results. V. Testing astrophysical models of the galactic center black hole." The Astrophysical Journal Letters 930.2 (2022): L16.
